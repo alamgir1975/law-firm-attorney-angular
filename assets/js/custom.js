@@ -23,13 +23,12 @@
 		nav: true,
 		dots: true,
 		smartSpeed: 1000,
-		rtl: true,
 		autoplay:true,
 		autoplayTimeout:4000,
 		autoplayHoverPause:true,
 		navText: [
-			"<i class='icofont-simple-right'></i>",
-			"<i class='icofont-simple-left'></i>"
+			"<i class='icofont-simple-left'></i>",
+			"<i class='icofont-simple-right'></i>"
 		]
 	});
 
@@ -48,7 +47,6 @@
 		loop:true,
 		margin: 0,
 		nav: false,
-		rtl: true,
 		dots: true,
 		smartSpeed: 1000,
 		autoplay:true,
